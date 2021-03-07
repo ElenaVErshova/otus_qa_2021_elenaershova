@@ -10,5 +10,9 @@ qwrety
 ## Thirs instructions
 qwerty forever
 
+
 # Local mashine changes
 wowß
+
+# remote changes
+changes AAA
